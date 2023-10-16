@@ -6,3 +6,6 @@
 6-colocar en la terminal npx rollup
 7-añadir "build": "rollup --watch --config" en package.json, debajo de test.
 8-compilar npm run build
+
+///
+npm install --save-dev gulp-webp
